@@ -149,7 +149,8 @@ git clone https://github.com/Anjaneyak24/e-commerce_sales_insights.git
 
 
 3. Click the link below to view the EXCEL Dashboard:
- - - [E-Commerce Sales Insights Dashboard](dashboard/e-commerce_sales_insights_dashboard.xlsx)
+ 
+- [E-Commerce Sales Insights Dashboard](dashboard/e-commerce_sales_insights_dashboard.xlsx)
 
 4. Click the links below to view the EXCEL and Python & SQL reports in pdf:
 - [E-Commerce Sales Insights Excel Report](reports/E-commerce_Sales_Insights_Excel_Report.pdf)
