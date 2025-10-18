@@ -142,19 +142,20 @@ coupons on Amazon, Flipkart, and Myntra platforms.
 git clone https://github.com/Anjaneyak24/e-commerce_sales_insights.git
 ```
 2. Click the links below to open the SQL and Python scripts:
-- [Sales_Performance_SQL_Queries.sql](sql_and_python_scripts/Sales_Performance_SQL_Queries.sql)  
-- [Data_Cleaning_and_KPIs_Python](sql_and_python_scripts/Data_Cleaning_and_KPIs_Python.ipynb)
+- [Sales Performance SQL Queries](sql_and_python_scripts/Sales_Performance_SQL_Queries.sql)
+- [Data Cleaning and KPIs (Python)](sql_and_python_scripts/Data_Cleaning_and_KPIs_Python.ipynb)
+
 
 
 3. Click the link below to view the EXCEL Dashboard:
- - [e-commerce_sales_insights(dashboard)](dashboard/e-commerce_sales_insights(dashboard))
+ - [e-commerce sales insights dashboard](dashboard/e-commerce_sales_insights_dashboard.xlsx)
 
 4. Click the links below to view the EXCEL and Python & SQL reports in pdf:
-- [E-commerce_Sales_Insights_Excel_Report](reports/e-commerce_sales_insights_excel_report)  
-- [E-commerce_Sales_Insights_Python_and_SQL_Report](reports/e-commerce_sales_insights_python_and_qQL_Report)
+- [E-Commerce Sales Insights Excel Report](reports/E-commerce_Sales_Insights_Excel_Report.pdf)
+- [E-Commerce Sales Insights Python and SQL Report](reports/E-commerce_Sales_Insights_Python_and_SQL_Report.pdf)
 
 5. Click the link below to view Raw Dataset:
- - [e-commerce_sales(raw_dataset)](datasets/e-commerce_sales(raw_dataset))
+ - [e-commerce sales(raw dataset)](datasets/e-commerce_sales(raw_dataset).xlsx)
  
 
 
