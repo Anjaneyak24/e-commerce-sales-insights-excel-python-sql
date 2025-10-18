@@ -143,9 +143,9 @@ git clone https://github.com/Anjaneyak24/e-commerce_sales_insights.git
 ```
 2. Click the links below to open the SQL and Python scripts:
 
-- [Sales Performance SQL Queries](sql_and_python_scripts/Sales_Performance_SQL_Queries.sql)
+- [Sales Performance SQL Queries](scripts/Sales_Performance_SQL_Queries.sql)
 
-- [Data Cleaning and KPIs (Python)](sql_and_python_scripts/Data_Cleaning_and_KPIs_Python.ipynb)
+- [Data Cleaning and KPIs (Python)](scripts/Data_Cleaning_and_KPIs_Python.ipynb)
 
 
 3. Click the link below to view the EXCEL Dashboard:
