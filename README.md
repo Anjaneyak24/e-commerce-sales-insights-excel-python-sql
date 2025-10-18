@@ -142,22 +142,21 @@ coupons on Amazon, Flipkart, and Myntra platforms.
 git clone https://github.com/Anjaneyak24/e-commerce_sales_insights.git
 ```
 2. Click the links below to open the SQL and Python scripts:
+
 - [Sales Performance SQL Queries](sql_and_python_scripts/Sales_Performance_SQL_Queries.sql)
+
 - [Data Cleaning and KPIs (Python)](sql_and_python_scripts/Data_Cleaning_and_KPIs_Python.ipynb)
 
 
-
 3. Click the link below to view the EXCEL Dashboard:
- - [e-commerce sales insights dashboard](dashboard/e-commerce_sales_insights_dashboard.xlsx)
+ - - [E-Commerce Sales Insights Dashboard](dashboard/e-commerce_sales_insights_dashboard.xlsx)
 
 4. Click the links below to view the EXCEL and Python & SQL reports in pdf:
 - [E-Commerce Sales Insights Excel Report](reports/E-commerce_Sales_Insights_Excel_Report.pdf)
 - [E-Commerce Sales Insights Python and SQL Report](reports/E-commerce_Sales_Insights_Python_and_SQL_Report.pdf)
 
 5. Click the link below to view Raw Dataset:
- - [e-commerce sales(raw dataset)](datasets/e-commerce_sales(raw_dataset).xlsx)
- 
-
+ - [E-Commerce Sales (Raw Dataset)](dataset/e-commerce_sales(raw_dataset).xlsx)
 
 ## Author & Contact
 
