@@ -162,5 +162,10 @@ git clone https://github.com/Anjaneyak24/e-commerce_sales_insights.git
 ## Author & Contact
 
 **Anjaneya K**  
+<<<<<<< HEAD
  Data Analyst | Bussiness Analyst  
 📧 Email: anjaneya.data@gmail.com | anjaneyab3.142@gmail.com
+=======
+ Data Analyst / Bussiness Analyst  
+📧 Email: anjaneyak3.142@gmail.com / anjaneyab3.142@gmail.com
+>>>>>>> 32f5614216680185bd4d15cb4d7d79807ebc6d3b
