@@ -20,22 +20,11 @@ Examining e-commerce sales data to uncover key performance trends, customer beha
 This project provides a data-driven analysis of e-commerce sales performance, transforming raw transactional data into a comprehensive business intelligence solution. It leverages Python ford data cleaning and KPI computation, SQL for sales performance analysis, and Excel for dashboard visualization. The interactive dashboards enable multi-dimensional exploration of sales metrics such as revenue, order trends, product performance, customer demographics, and regional insights. This project demonstrates a scalable framework for converting raw sales data into actionable insights that support data-driven decision-making and strategic business growth.
 
 ## Problem Statement
-In the rapidly expanding e-commerce industry, businesses generate huge volumes of sales and customer data. 
-However, this data is often inconsistent, unstructured, duplicated, making it difficult to analyze and extract meaningful 
-insights. Such data complexity limits the ability to track performance, identify trends, and understand customer 
-behavior. As a result, companies struggle to make informed, data-driven decisions and miss potential growth 
-opportunities, leading to inefficiencies in marketing, inventory management, and overall strategic planning. 
+ Due to the lack of clear understanding of regional, temporal, and demographic customer purchase patterns, the e-commerce marketplace seller was struggling to align supply with actual demand across locations and time periods. This led to inefficient inventory distribution, ineffective marketing spend, inconsistent customer targeting, and unreliable sales forecasting. As a result, the company faced missed revenue opportunities, higher operational costs, and reduced strategic clarity in scaling high-performing markets.
 
-To address this challenge, this project uses a Kaggle/GitHub e-commerce dataset and implements a complete data 
-analytics workflow integrating Python, SQL, and Excel. Python is used for data cleaning and key performance 
-aggregations, SQL for analyzing sales performance through structured queries, and Excel for building an interactive 
-dashboard that visually represents major sales trends and insights. 
+The objective of this project was to analyze customer purchase behavior across key segments—age groups, gender, months, regions, and sales channels—to uncover demand patterns and performance drivers. 
 
-The aim of this project is to demonstrate how a unified and structured analytical process can transform raw e
-commerce data into clear, visual, and insight-driven business intelligence, enabling more informed and effective 
-business decisions.
-
-
+The analysis aimed to generate data-driven insights to optimize inventory planning, refine marketing focus, enhance delivery efficiency, and ultimately support sustainable revenue growth and informed business decision-making.
 
 ## Dataset Details
 - Dataset Source: Public Dataset (Kaggle/GitHub) 
@@ -47,7 +36,7 @@ business decisions.
 ## Tools & Technologies
 -  Excel: Dashboards, Power Query, Power Pivot, Pivot Charts, Slicers. 
 - SQL: COUNT, GROUP BY, ORDER BY, Subqueries for data extraction and aggregation. 
-- Python (Jupyter Notebook): Pandas, NumPy, Seaborn. 
+- Python (Jupyter Notebook): Pandas, NumPy, Seaborn used for Data Cleaning and Calculating Agrregate KPIs. 
 - MS Word: Report preparation and documentation of findings.
 ## Project Structure
 
